@@ -1,0 +1,4 @@
+name: PluginOOP
+version: '${project.version}'
+main: ch.ksrminecraft.pluginoop.PluginOOP
+api-version: '1.20'
